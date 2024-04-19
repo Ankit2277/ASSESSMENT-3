@@ -46,15 +46,9 @@ clothing1 = Clothing("Shirt", 1500, 5, "Medium")
 
 clothing1.display_product_info()
 electronics1.display_product_info()
-
-44
-45
-
 book1 = Book("Head First Java", "1000", "8", "Kathy Sierra and Bert Bates")
 
-46
-
-print("electronics1") (4/4 3:39 PM) Harpreet Singh
+print("electronics1") 
 class Library:
     bookcollection = []
  
@@ -87,7 +81,7 @@ if Sign == "+":
 else:
     Sum = X - Y
  
-print("Result:", Sum) [3/7 2:52 PM] ~ Ankit
+print("Result:", Sum) 
 import random
  
     #initiate a secret number
